@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CarlosKvasir/oministack11",
+  "author": "Carlos Lima (Kvasir)",
+  "license": "MPL-2.0",
+  "private": false
+}
